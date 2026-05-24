@@ -1,0 +1,12 @@
+{
+  "compiler": {
+    "version": "1.5.0"
+  },
+  "projects": [
+    {
+      "name": "jetton",
+      "path": "./jetton.tact",
+      "output": "./build"
+    }
+  ]
+}
