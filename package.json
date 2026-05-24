@@ -1,0 +1,14 @@
+{
+  "name": "ton-tact-jetton-contract",
+  "version": "1.0.0",
+  "description": "High-concurrency Jetton contract implemented in Tact for TON",
+  "scripts": {
+    "build": "blueprint build",
+    "deploy": "blueprint run"
+  },
+  "dependencies": {
+    "@ton/blueprint": "^0.20.0",
+    "@ton/core": "^0.56.0",
+    "@ton/crypto": "^3.3.0"
+  }
+}
